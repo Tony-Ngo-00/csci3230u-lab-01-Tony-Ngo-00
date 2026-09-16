@@ -17,4 +17,4 @@ git pull I would use when I am trying to get something from the repository - nam
 
 ## Evidence (links)
 
-- Merged pull request: (https://github.com/Tony-Ngo-00/csci3230u-lab-01-Tony-Ngo-00/pull/2) (paste the PR URL)
+- Merged pull request: link here (https://github.com/Tony-Ngo-00/csci3230u-lab-01-Tony-Ngo-00/pull/2) (paste the PR URL)
